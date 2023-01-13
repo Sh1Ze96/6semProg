@@ -38,4 +38,4 @@ WIX шаблон сайта резюме [https://ru.wix.com/website/templates/h
         https://www.figma.com/community/file/1193461935826510859
         https://www.figma.com/community/file/1188443208149762781
         3 Наполнение сайта
-        
+        4 с 13 по 20 определится с системой конференции
