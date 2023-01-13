@@ -1,7 +1,7 @@
 MDK02.02(resume)
 
 Шаблон программиста https://myresume.ru/examples/programmist/ 
-WIX шаблон сайта резюме https://ru.wix.com/website/templates/html/portfolio-cv/resumes-cvs 
+WIX шаблон сайта резюме [https://ru.wix.com/website/templates/html/portfolio-cv/resumes-cvs ](https://www.figma.com/community/tag/website/files)
 Нет опыта работы https://guides.hexlet.io/how-to-create-a-resume/#когда-программисту-начинать-составлять-резюме
 
 Задание:
@@ -34,3 +34,8 @@ WIX шаблон сайта резюме https://ru.wix.com/website/templates/ht
 - [ ] Основы ООП, простейшие алгоритмы.
 - [ ] Базовые знания Java необходимы.
 - [ ] Знакомство с БД MS SQL или Oracle
+        2 Выбрать дизайн сайта
+        https://www.figma.com/community/file/1193461935826510859
+        https://www.figma.com/community/file/1188443208149762781
+        3 Наполнение сайта
+        
