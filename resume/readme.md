@@ -5,7 +5,7 @@ WIX шаблон сайта резюме [https://ru.wix.com/website/templates/h
 Нет опыта работы https://guides.hexlet.io/how-to-create-a-resume/#когда-программисту-начинать-составлять-резюме
 
 Задание:
-        1 Выписать проффесиональные навыки, которыми должен обладать информационщик
+        1 Выписать проффесиональные навыки, которыми должен обладать информационщик/Deadline next week  https://drive.google.com/drive/folders/1pnBXXuAABDCMAKrcNjrDvRnE1jPd_LBL
  1 Frontend-разработчик
  2 Backend-программист
  3 Разработчик мобильных приложений
@@ -37,5 +37,5 @@ WIX шаблон сайта резюме [https://ru.wix.com/website/templates/h
         2 Выбрать дизайн сайта
         https://www.figma.com/community/file/1193461935826510859
         https://www.figma.com/community/file/1188443208149762781
-        3 Наполнение сайта
+        3 Наполнение сайта\
         
