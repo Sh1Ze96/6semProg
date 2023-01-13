@@ -37,5 +37,5 @@ WIX шаблон сайта резюме [https://ru.wix.com/website/templates/h
         2 Выбрать дизайн сайта
         https://www.figma.com/community/file/1193461935826510859
         https://www.figma.com/community/file/1188443208149762781
-        3 Наполнение сайта\
+        3 Наполнение сайта
         
