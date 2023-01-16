@@ -1,18 +1,19 @@
 MDK02.02(resume)
 
-Шаблон программиста https://myresume.ru/examples/programmist/ 
-WIX шаблон сайта резюме [https://ru.wix.com/website/templates/html/portfolio-cv/resumes-cvs ](https://www.figma.com/community/tag/website/files)
-Нет опыта работы https://guides.hexlet.io/how-to-create-a-resume/#когда-программисту-начинать-составлять-резюме
+<BR>Шаблон программиста https://myresume.ru/examples/programmist/ 
+<BR>WIX шаблон сайта резюме [https://ru.wix.com/website/templates/html/portfolio-cv/resumes-cvs ](https://www.figma.com/community/tag/website/files)
+<BR>Нет опыта работы https://guides.hexlet.io/how-to-create-a-resume/#когда-программисту-начинать-составлять-резюме
 
 Задание:
-        1 Выписать проффесиональные навыки, которыми должен обладать информационщик/Deadline next week  https://drive.google.com/drive/folders/1pnBXXuAABDCMAKrcNjrDvRnE1jPd_LBL
- 1 Frontend-разработчик
- 2 Backend-программист
- 3 Разработчик мобильных приложений
- 4 Системный программист
- 5 Разработчик игр
- 6 Программист 1С
-        1.1 Условие разработка игр
+<BR>        1 Выписать проффесиональные навыки, которыми должен обладать информационщик/Deadline next week  <BR>https://drive.google.com/drive/folders/1pnBXXuAABDCMAKrcNjrDvRnE1jPd_LBL
+<BR> 1 Frontend-разработчик
+<BR> 2 Backend-программист
+<BR> 3 Разработчик мобильных приложений
+<BR> 4 Системный программист
+<BR> 5 Разработчик игр
+<BR> 6 Программист 1С
+  
+<BR>        1.1 Условие разработка игр
 - [ ] программируете на JavaScript;
 - [ ] есть опыт разработки онлайн игр;
 - [ ] хорошо знаете PixiJS;
@@ -22,20 +23,22 @@ WIX шаблон сайта резюме [https://ru.wix.com/website/templates/h
 - [ ] можете сконфигурировать Apache, Nginx;
 - [ ] имеете опыт работы с GIT;
 - [ ] будет плюсом владение PHP+SQL, Yii2, Node.js, PostgreSQL, Redis.
-        1.2 Условие тетстировщик игр QA engineer / QA инженер
+  
+<BR>        1.2 Условие тетстировщик игр QA engineer / QA инженер
 - [ ] игровой опыт (мобильные, клиентские игры - в приоритете гоночные игры);
 - [ ] опыт работы с Unity от года;
 - [ ] опыт работы тестировщиком 1- 3 года обязателен (на мобильных проектах в приоритете);
 - [ ] уверенные знания теории тестирования и умение применять эти знания на практике;
 - [ ] умение работать с клиент-серверными приложениями;
 - [ ] ответственность, организованность, целеустремленность.
-        1.3 Условие Junior/Junior+php программист
+  
+<BR>        1.3 Условие Junior/Junior+php программист
 - [ ] Увлеченность IT - тематикой и стремление к развитию в этом направлении.
 - [ ] Основы ООП, простейшие алгоритмы.
 - [ ] Базовые знания Java необходимы.
 - [ ] Знакомство с БД MS SQL или Oracle
-        2 Выбрать дизайн сайта
-        https://www.figma.com/community/file/1193461935826510859
-        https://www.figma.com/community/file/1188443208149762781
-        3 Наполнение сайта
-        4 с 13 по 20 определится с системой конференции
+<BR>        2 Выбрать дизайн сайта
+<BR>        https://www.figma.com/community/file/1193461935826510859
+<BR>        https://www.figma.com/community/file/1188443208149762781
+<BR>        3 Наполнение сайта
+<BR>        4 с 13 по 20 определится с системой конференции
