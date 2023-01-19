@@ -53,3 +53,4 @@ MDK02.02(resume)
 <BR>        https://www.figma.com/community/file/1188443208149762781
 <BR>        3 Наполнение сайта
 <BR>        4 с 13 по 20 определится с системой конференции
+![image](https://user-images.githubusercontent.com/97594421/213488144-2810960c-0f7a-48eb-a276-4dc959f5caac.png)
