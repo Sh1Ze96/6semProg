@@ -85,7 +85,7 @@ https://hh.ru/vacancy/73866509?from=vacancy_search_list&query=Стажировк
 
 Сайт https://dqoxh.tb.ru
 <BR>Олипиада
-![photo1675403456](https://user-images.githubusercontent.com/97594421/216523186-4fb17ad2-79bb-4214-8b06-97cd007d1f48.jpeg)
-![photo1675403471](https://user-images.githubusercontent.com/97594421/216523203-953a2a11-8beb-440c-a2eb-ceb7956b495b.jpeg)
-![photo1675403481](https://user-images.githubusercontent.com/97594421/216523215-d7527425-40ce-4aa6-b33d-ccd91f199056.jpeg)
+![image](https://user-images.githubusercontent.com/97594421/216523186-4fb17ad2-79bb-4214-8b06-97cd007d1f48.jpeg)
+![image](https://user-images.githubusercontent.com/97594421/216523203-953a2a11-8beb-440c-a2eb-ceb7956b495b.jpeg)
+![image](https://user-images.githubusercontent.com/97594421/216523215-d7527425-40ce-4aa6-b33d-ccd91f199056.jpeg)
 
