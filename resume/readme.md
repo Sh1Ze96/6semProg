@@ -89,3 +89,4 @@ https://hh.ru/vacancy/73866509?from=vacancy_search_list&query=Стажировк
 ![image](https://user-images.githubusercontent.com/97594421/216523203-953a2a11-8beb-440c-a2eb-ceb7956b495b.jpeg)
 ![image](https://user-images.githubusercontent.com/97594421/216523215-d7527425-40ce-4aa6-b33d-ccd91f199056.jpeg)
 
+![image](https://user-images.githubusercontent.com/97594421/216527648-e7009c14-ba1f-4cca-a65f-da150ac121f3.jpeg)
