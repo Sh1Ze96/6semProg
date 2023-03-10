@@ -124,3 +124,14 @@ https://radar4site.ru/upload/000/u1/4/a/test-plan.pdf https://www.software-testi
 Чек-лист Web - https://habr.com/ru/post/542422/
 Чек-лист Game - https://checklists.expert/checklist/73222-cheklist-po-igre
 Чек-лист приложений - [https://habr.com/ru/post/715262/](https://ru.hexlet.io/blog/posts/testirovanie-prilozheniy-opisanie-i-chek-list?ysclid=lesc2aocfi379695542)
+
+Портрет тестировщка ПО
+Знание программных систем предметной области
+Участие в различных этапах разработки по
+Тестировщик определяют с точки бизнес приорететы
+Навыки мкжличностного общения 
+умение критиковать и воспринимать критику оказывать влияние на других и воспринимать переговоры
+организованость внимание к деталяи и сильные навыки письменной и утной коммуникации
+
+Unit test
+должее
