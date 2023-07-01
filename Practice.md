@@ -4,3 +4,6 @@
 
 Google drive 
 https://drive.google.com/drive/folders/1MaAPY8pBooxUwujOn3MWWZXXuidwBPgi
+
+Практика
+https://drive.google.com/drive/folders/1MaAPY8pBooxUwujOn3MWWZXXuidwBPgi?usp=sharing
